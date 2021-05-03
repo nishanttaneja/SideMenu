@@ -13,6 +13,7 @@
 		B4C66046263FBBAE00D28DF3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4C66044263FBBAE00D28DF3 /* Main.storyboard */; };
 		B4C66048263FBBAF00D28DF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4C66047263FBBAF00D28DF3 /* Assets.xcassets */; };
 		B4C6604B263FBBAF00D28DF3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4C66049263FBBAF00D28DF3 /* LaunchScreen.storyboard */; };
+		B4C66053263FBC3200D28DF3 /* SideMenuController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C66052263FBC3200D28DF3 /* SideMenuController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B4C66047263FBBAF00D28DF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B4C6604A263FBBAF00D28DF3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B4C6604C263FBBAF00D28DF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B4C66052263FBC3200D28DF3 /* SideMenuController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B4C6603E263FBBAE00D28DF3 /* AppDelegate.swift */,
 				B4C66040263FBBAE00D28DF3 /* SceneDelegate.swift */,
 				B4C66042263FBBAE00D28DF3 /* ViewController.swift */,
+				B4C66052263FBC3200D28DF3 /* SideMenuController.swift */,
 				B4C66044263FBBAE00D28DF3 /* Main.storyboard */,
 				B4C66047263FBBAF00D28DF3 /* Assets.xcassets */,
 				B4C66049263FBBAF00D28DF3 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4C66043263FBBAE00D28DF3 /* ViewController.swift in Sources */,
+				B4C66053263FBC3200D28DF3 /* SideMenuController.swift in Sources */,
 				B4C6603F263FBBAE00D28DF3 /* AppDelegate.swift in Sources */,
 				B4C66041263FBBAE00D28DF3 /* SceneDelegate.swift in Sources */,
 			);
